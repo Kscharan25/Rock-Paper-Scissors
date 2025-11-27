@@ -1,56 +1,34 @@
-🎮 Rock • Paper • Scissors
+<h1>Rock • Paper • Scissors</h1>
 
 A simple and fun Rock • Paper • Scissors game built using HTML, CSS, and JavaScript.
 This project features smooth UI, score tracking, reset option, and instant result display.
 
 
-🛠️ Tech Stack
+<h2>Tech Stack</h2>
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=html" width="45"/> <img src="https://skillicons.dev/icons?i=css" width="45"/> <img src="https://skillicons.dev/icons?i=javascript" width="45"/> </p>
 
 
-📸 Preview
+<h2>Preview</h2>
 
 ![Game Screenshot](./gamescreenshot.png)
 
 
-✨ Features
+<h2>Features</h2>
 
-✔️ Clean & Modern UI
+  <li>Clean & Modern UI</li>
+    
+  <li>Fully Functional Gameplay</li>
+    
+  <li>Score Tracking</li>
+    
+  <li>Reset Button</li>
+    
+  <li>Resets all scores and status display.</li>
+    
+  <li>Works comfortably on all screen sizes.</li>
 
-1.Gradient background
-
-2.Smooth hover animations
-
-3.Glass-effect container
-
-✔️ Fully Functional Gameplay
-
-1.User chooses Rock, Paper, or Scissors
-
-2.Computer makes a random move
-
-3.Instant round result displayed
-
-✔️ Score Tracking
-
-1.Tracks:
-
-2.User score
-
-3.Computer score
-
-4.Draw count
-
-✔️ Reset Button
-
-Resets all scores and status display.
-
-✔️ Responsive Layout
-
-Works comfortably on all screen sizes.
-
-🧠 How the Game Works (Beginner Friendly)
+ <h2>How the Game Works (Beginner Friendly)</h2>
 
 1.You click one of the options: ✊ Rock, ✋ Paper, ✌️ Scissors
 
@@ -70,7 +48,7 @@ Works comfortably on all screen sizes.
 
 9."Reset" button clears all scores
 
-🚀 Future Improvements
+<h2>Future Improvements</h2>
 
 1.Add sound effects
 
